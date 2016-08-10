@@ -25,5 +25,4 @@ object HighOrderFunc {
     }
     loop(a, 0)
   }
-
 }
